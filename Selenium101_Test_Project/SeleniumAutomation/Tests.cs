@@ -14,8 +14,8 @@ namespace Selenium101_Test_Project.SeleniumAutomation
     [Parallelizable(ParallelScope.All)]
     public class Tests
     {
-        public static string LT_USERNAME = Environment.GetEnvironmentVariable("LT_USERNAME") ?? "sumitbambal123";
-        public static string LT_ACCESS_KEY = Environment.GetEnvironmentVariable("LT_ACCESS_KEY") ?? "m6uRYZfckcMaesux5Iyya9RR9x9NO1ToWrNZO6m1XAmvu1dSD8";
+        public static string LT_USERNAME = "sumeet_pal";
+        public static string LT_ACCESS_KEY = "hD5T3Y76XOujSdIHQmYsyuco3OviJHTYdYq6cHHfFFfLOyFix9";
         public static bool tunnel = bool.Parse(Environment.GetEnvironmentVariable("LT_TUNNEL") ?? "false");
         public static string build = Environment.GetEnvironmentVariable("LT_BUILD") ?? "LambdatestBuildChrome";
         public static string seleniumUri = "https://hub.lambdatest.com:443/wd/hub";
