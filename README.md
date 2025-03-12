@@ -12,5 +12,5 @@ This project demonstrates the use of Selenium WebDriver with NUnit for automated
 
 Ensure the following environment variables are set:
 
-- `LT_USERNAME`: sumitbambal123
-- `LT_ACCESS_KEY`: m6uRYZfckcMaesux5Iyya9RR9x9NO1ToWrNZO6m1XAmvu1dSD8
+- `LT_USERNAME`: sumeet_pal
+- `LT_ACCESS_KEY`: hD5T3Y76XOujSdIHQmYsyuco3OviJHTYdYq6cHHfFFfLOyFix9
